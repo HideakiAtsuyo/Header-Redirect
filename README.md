@@ -9,3 +9,7 @@ The goal is to redirect directly by using the "Refresh" header, you need to set 
 - nothing2
 
 Why i updated `X-Powered-By` value ?<br>=> It's a way to know that you use an Express server the exact value is `Experss` a few other way exist too :)
+
+## Video
+
+[Here](https://i.imgur.com/cWDu8J5.mp4)
