@@ -1,0 +1,9 @@
+{
+    "web":{
+        "port": 3000,
+        "siteName": "Header Redirect",
+        "redirectLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "redirectName": "Rick Astley"
+    },
+    "Oof": "Hideaki Atsuyo"
+}
